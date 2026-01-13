@@ -11,7 +11,6 @@
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Screenshots](#screenshots)  
-- [Versions](#versions)  
 - [Contributing](#contributing)  
 - [License](#license)
 
@@ -83,20 +82,6 @@ This project is primarily for **viewing and learning purposes**. Contributions i
 are welcome and appreciated.  
 
 **Important:** You **cannot** use this code to create your own app, redistribute, or modify it for commercial purposes **without proper attribution** to the original author.
-
----
-
-## Versions
-
-#### [v1.0.0] – 1.10.2025
-```text
-Added:
-- Initial release of Bela Blok.
-- Record and calculate scores for multiple players.
-- Automatic point calculation and round tracking.
-- Clean and intuitive interface for smooth gameplay.
-- Support for starting new games and resetting scores.
-```
 
 ---
 
