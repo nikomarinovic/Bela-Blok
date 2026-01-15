@@ -1,6 +1,7 @@
 # Bela Blok
 
-**Bela Blok** is a simple, intuitive, and user-friendly digital scorepad for Belot players. Like the traditional scorepad used in real-life Belot games, it allows players to **record, update, calculate, and track points** efficiently, keeping gameplay smooth, organized, and enjoyable for casual or competitive sessions with friends.
+> [!NOTE]
+> **Bela Blok** is a simple, intuitive, and user-friendly digital scorepad for Belot players. Like the traditional scorepad used in real-life Belot games, it allows players to **record, update, calculate, and track points** efficiently, keeping gameplay smooth, organized, and enjoyable for casual or competitive sessions with friends.
 
 ---
 
@@ -73,7 +74,10 @@ You can explore the folder to see the app in action at each stage of a typical g
 
 ## Contributing
 
-This project is primarily for **viewing and learning purposes**. Contributions in the form of:
+> [!IMPORTANT]
+> This project is primarily for **viewing and learning purposes**.
+
+Contributions in the form of:
 
 - Suggestions  
 - Ideas for improvements  
@@ -81,20 +85,8 @@ This project is primarily for **viewing and learning purposes**. Contributions i
 
 are welcome and appreciated.  
 
-**Important:** You **cannot** use this code to create your own app, redistribute, or modify it for commercial purposes **without proper attribution** to the original author.
-
----
-
-## Contributing
-
-This project is intended primarily for educational and reference purposes. Contributions are welcome in the form of:
-- Suggestions for enhancements
-- Ideas for improvements
-- Bug reports or issue identification
-
-Please note: You **may not** use this code to **create** derivative applications, **redistribute**, or **modify** it for commercial purposes without **proper attribution to the original author**.
-
-We appreciate your interest and contributions in helping improve this project.
+> [!IMPORTANT]
+> You **cannot** use this code to create your own app, redistribute, or modify it for commercial purposes **without proper attribution** to the original author.
 
 ---
 
