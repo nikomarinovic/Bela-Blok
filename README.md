@@ -104,7 +104,7 @@ Permitted:
 Prohibited:
 - Copying, modifying, or redistributing the code to create derivative applications
 - Selling or commercially distributing the application or its code
-- Using this project without proper attribution to the original author: Niko Marinović (https://github.com/Nmarino8￼)
+- Using this project without proper attribution to the original author: Niko Marinović
 
 **By using this project, you agree to respect these terms.**
 
