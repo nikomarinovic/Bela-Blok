@@ -1,111 +1,119 @@
-# Bela Blok
+<h1 align="center">
+  <img src="public/logo.svg" alt="Bela Blok Logo" width="96" />
+  <br />
+  Bela Blok
+</h1>
 
-> [!NOTE]
-> **Bela Blok** is a simple, intuitive, and user-friendly digital scorepad for Belot players. Like the traditional scorepad used in real-life Belot games, it allows players to **record, update, calculate, and track points** efficiently, keeping gameplay smooth, organized, and enjoyable for casual or competitive sessions with friends.
-
----
-
-## Table of Contents
-
-- [Overview](#overview)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Screenshots](#screenshots)  
-- [Contributing](#contributing)  
-- [License](#license)
+<p align="center">
+  A digital scorepad for Belot players — record, update, calculate, and track points the easy way.
+</p>
 
 ---
 
-## Overview
+## What is Bela Blok?
 
-Bela Blok replicates the traditional Belot scorepad digitally, allowing players to focus on the game while the app handles calculations and keeps track of rounds and points. It is ideal for casual and competitive play among friends.
+**Bela Blok replicates the traditional Belot scorepad digitally so players can focus on the game:**
+
+- Record and update scores for multiple players across rounds
+- Automatic point calculation — no manual math
+- Clean, fast interface designed for use mid-game
+- Keeps rounds organized and error-free
+- Built for iOS with a native Swift interface
+
+**`No paper needed. No miscalculations. Just track and play.`**
 
 ---
 
-## Features
+## How It Works
 
-- Record scores for multiple players  
-- Automatic calculation of points  
-- Easy updating and editing of rounds  
-- Keeps games organized and error-free  
-- Clean, intuitive interface for quick use  
+Getting started with Bela Blok is straightforward:
+
+1. **Launch the app** — open in Xcode and run on simulator or device
+2. **Enter player names** — set up your teams before the game starts
+3. **Input round scores** — enter points after each hand
+4. **Track totals automatically** — running totals update instantly
+5. **Start a new game** — reset everything with one tap when the session ends
+
+> [!TIP]
+> Keep the app open on a shared device in the middle of the table so everyone can see the score at a glance.
 
 ---
 
 ## Installation
 
-1. Clone the repository:  
+### Requirements
+
+- Xcode 15 or later
+- iOS 16.0+ target
+- macOS with Xcode installed
+
+### Steps
 ```bash
 git clone https://github.com/Nmarino8/Bela-Blok.git
-
 ```
-2.	Navigate to the project folder:
-   ```bash
-   cd "Bela Blok"
 
-   ```
-3.	Open the Xcode project:
-   ```bash
-   open Bela\ Blok.xcodeproj
+Navigate to the project folder:
+```bash
+cd "Bela Blok"
+```
 
-   ```
-4.	Build and run the app using Xcode.
-	
+Open the Xcode project:
+```bash
+open "Bela Blok.xcodeproj"
+```
+
+Build and run using `Cmd+R` or the Run button in Xcode.
+
 ---
 
-## Usage
+## Features
 
-	1.	Launch the Bela Blok app in Xcode.
-	2.	Enter player names.
-	3.	Input scores for each round.
-	4.	Track total points automatically.
-	5.	Start a new game whenever needed.
+- **Multi-player Scoring** — record scores for all players or teams in one place
+- **Automatic Calculation** — points are summed and updated after every round entry
+- **Round Editing** — easily update or correct any round without starting over
+- **Game History** — track the full progression of points from start to finish
+- **Clean Interface** — minimal UI designed for quick use during an active game
+- **New Game Reset** — start fresh instantly without leaving the app
 
 ---
 
 ## Screenshots
 
-All screenshots demonstrating how Bela Blok works—showing the interface, entering points, settings, and game progress—are available in the `screenshots/` folder of this repository.
+All screenshots showing the interface, score entry, settings, and game progress are available in the `screenshots/` folder of this repository.
 
-You can explore the folder to see the app in action at each stage of a typical game.
+<br>
 
----
+<p align="center">
+	<img src="screenshots/screenshot_1.png" alt="Bela Blok Screenshot 1" width="300" />
+	<img src="screenshots/screenshot_2.png" alt="Bela Blok Screenshot 2" width="300" />
+</p>
+<p align="center">
+	<img src="screenshots/screenshot_3.png" alt="Bela Blok Screenshot 3" width="300" />
+	<img src="screenshots/screenshot_4.png" alt="Bela Blok Screenshot 4" width="300" />
+</p>
 
-## Contributing
-
-> [!IMPORTANT]
-> This project is primarily for **viewing and learning purposes**.
-
-Contributions in the form of:
-
-- Suggestions  
-- Ideas for improvements  
-- Bug reports  
-
-are welcome and appreciated.  
-
-> [!IMPORTANT]
-> You **cannot** use this code to create your own app, redistribute, or modify it for commercial purposes **without proper attribution** to the original author.
 
 ---
 
-## License
+## Data & Privacy
 
-All rights reserved.
+Bela Blok stores all game data locally on your device. No data is collected, transmitted, or shared with any external service.
 
-This project may be used under the following conditions:
+> [!NOTE]
+> This project is published primarily for viewing and learning purposes. The code demonstrates a practical iOS scorepad implementation using Swift.
 
-Permitted:
-- Viewing and studying the code
-- Learning from the implementation
-- Using it for personal, educational, or non-commercial purposes
-
-Prohibited:
-- Copying, modifying, or redistributing the code to create derivative applications
-- Selling or commercially distributing the application or its code
-- Using this project without proper attribution to the original author: Niko Marinović
-
-**By using this project, you agree to respect these terms.**
+> [!WARNING]
+> You may not copy, modify, redistribute, or use this code to build derivative applications without explicit written permission from the author.
 
 ---
+
+<h3 align="center">
+  Bela Blok does not accept code contributions via pull requests.<br />
+  Suggestions, ideas, and bug reports are welcome through GitHub Issues.
+</h3>
+
+---
+
+<p align="center">
+  © 2026 Niko Marinović. All rights reserved.
+</p>
