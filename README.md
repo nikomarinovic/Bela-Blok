@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/logo.svg" alt="Bela Blok Logo" width="96" />
+  <img src="public/logo.png" alt="Bela Blok Logo" width="96" />
   <br />
   Bela Blok
 </h1>
